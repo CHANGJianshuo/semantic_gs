@@ -1,0 +1,838 @@
+Using CPU
+Reading 1441245 points
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132978.799967051.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132992.299970150.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133005.799944878.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133019.299885035.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133069.699984789.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133083.199969053.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133114.499886036.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133131.899963856.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133100.999974966.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133151.699980021.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133165.199963808.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133178.699909210.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133195.499886990.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133218.499999046.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133231.999801159.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133245.499840021.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133259.000005960.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133272.499836922.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133285.999896049.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133299.499908209.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133006.299934864.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133152.199918032.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133070.199920893.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133179.199980974.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133232.499898911.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133272.999905109.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132979.299936056.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133165.699914932.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133286.499819994.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133259.499825001.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133132.399924994.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133299.999979973.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132992.799902916.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133114.999975920.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133019.799822092.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133101.499795914.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133195.999801159.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133218.999927998.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133083.699898958.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133006.799994946.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133179.699935913.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133232.999979019.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133245.999912977.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133273.499983072.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133166.199995995.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133070.699875116.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133152.699994087.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132979.799890995.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132993.299977064.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133286.999910831.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133259.999889851.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133101.999912024.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133300.499824047.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133132.899877071.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133115.499834061.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133196.499774933.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133020.299921989.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133219.499881029.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133084.199822187.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133153.199812174.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133233.499813795.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133246.499829054.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133007.299836874.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133273.999916077.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133180.199990988.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132980.299998999.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133071.199983120.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133166.699805975.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133260.499843121.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132993.799911022.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133300.999989986.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133102.499968052.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133133.399972200.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133287.499994040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133115.999877214.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133203.899880886.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133020.799984217.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133167.199889898.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133246.999885082.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133233.999898911.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133180.699826002.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133084.699986935.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133153.699791908.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133071.699927092.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133219.999808073.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133007.799876213.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133116.499823093.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133287.999909878.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132994.299996853.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133274.499994040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133301.499794006.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133102.999916077.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132980.799788952.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133260.999923944.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133133.899945021.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133181.199889898.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133085.199959040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133154.199995995.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133021.299800158.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133167.699970007.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133204.399834871.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133247.499972105.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133117.000018835.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133234.499992132.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133072.199990988.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133008.299978971.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133220.499900818.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133274.999973774.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132994.799901009.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133103.499888182.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133301.999989986.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132981.299968004.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133085.699910879.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133134.399898767.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133288.499983072.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133021.799891949.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133261.499882936.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133181.699954987.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133154.699827909.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133204.899824142.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133247.999813795.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133117.499833107.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132995.299835920.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133220.999881029.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133072.699973822.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133008.799808025.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133168.199836016.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133275.499909163.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133059.199917078.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133134.899824142.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133103.999819994.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133234.999832153.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133302.499829054.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132981.799919128.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133086.199984074.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133288.999820948.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132995.799887180.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133155.199897051.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133182.199921846.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133248.499893904.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133275.999990940.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133205.399917126.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133073.199935913.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133261.999823093.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133135.399929047.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133117.999892950.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133059.699990988.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133168.699885130.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133302.999889851.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133009.299781084.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133235.499891043.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133221.499973059.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133289.499884129.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132982.299891949.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133104.499888182.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133086.699822187.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133073.699883938.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133276.499829054.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133155.699824810.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132996.299996853.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133248.999794960.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133118.499825001.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133182.699989080.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133303.499825954.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133060.199841976.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133205.899971008.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133262.499899864.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133135.899952173.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133169.199959040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133009.799963951.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133235.999825954.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133074.199829102.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133104.999930143.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133221.999936104.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133156.199779987.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133087.199889898.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133249.499989033.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133183.199941158.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132996.799818993.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132982.799972057.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133289.999829054.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133118.999907017.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133136.399877071.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133276.999895096.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133074.699895144.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133060.699934006.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133236.499902964.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133206.399931908.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133169.699917078.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133010.299906969.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133303.999897003.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133262.999989033.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133105.499983072.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133087.699824095.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133156.699968100.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132997.299885035.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133222.499915123.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133249.999835968.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133277.499994040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133123.399941206.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133183.699985981.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133290.499905109.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132983.299937963.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133136.899827003.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133075.199958086.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133061.199774981.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133206.899990082.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133236.999877930.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133170.199897051.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133088.199996948.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133263.499811172.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133304.499965906.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133105.999825954.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133250.499896049.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133010.799994230.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133277.999805927.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133157.199810982.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132997.799825907.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133184.199941874.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133222.999982119.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133123.899995804.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132983.799992085.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133290.999843121.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133075.699913025.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133137.399915934.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133061.699985981.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133170.699817896.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133207.399825811.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133088.699966908.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133237.499820948.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133011.299835920.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133157.699875116.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133106.499906063.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133304.999909163.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133263.999878883.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133278.499780178.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133250.999981165.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133124.399821043.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132984.299803972.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133223.499819040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133076.199976921.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133062.199817896.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133184.699911833.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133137.899994135.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132998.299991131.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133291.499919176.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133207.899896145.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133171.199793816.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133264.499982119.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133011.799939156.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133237.999784946.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133089.199902058.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133106.999976873.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133158.199805975.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133124.899898767.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133278.999975920.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133305.499982119.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133076.699815989.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133251.499840975.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132984.799877882.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133185.199973822.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133171.699959040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133062.699973106.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133291.999976873.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133223.999924898.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133138.399818897.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132998.799816847.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133264.999947071.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133208.399976969.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133158.699994087.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132985.299984932.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133107.499839067.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133305.999916077.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133125.399986029.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133012.299895048.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133238.499886990.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133279.499915123.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133089.699982166.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133251.999836922.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133172.199948072.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133185.699800014.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133063.199917078.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133077.199898958.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133138.899888039.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133224.499775887.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133292.499825001.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132985.799828053.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133265.499927044.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132999.299880981.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133208.899824858.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133159.199817896.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133012.799823046.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133238.999818087.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133125.899924994.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133107.999887943.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133090.199944019.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133306.499988079.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133172.699977875.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133186.199898958.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133279.999981165.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133252.499795914.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133139.399816990.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133077.699962139.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133224.999830008.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133159.699984789.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133209.399884939.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133292.999898911.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133013.299913883.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132999.799832106.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133063.699969053.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132986.299932957.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133126.399785042.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133265.999884129.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133239.499885082.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133108.499881983.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133173.199826002.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133090.699887037.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133252.999777079.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133280.499790192.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133306.999940157.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133139.899988890.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133186.699817896.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133239.999969959.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133013.799839973.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133209.899842024.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133078.199902058.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133000.299916983.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133225.499903917.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133160.199930906.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133293.499973774.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133126.899942875.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133108.999818087.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132986.799884081.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133253.499836922.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133091.199965000.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133266.499819994.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133173.699774981.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133307.499877214.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133280.999989033.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133064.199944973.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133140.399833202.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133187.199923038.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133240.499806881.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133014.299916983.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133160.699994087.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133000.799885035.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133210.399931908.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133091.699992180.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133225.999969006.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133293.999912024.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133078.699983120.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133127.399906158.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133109.499929190.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132987.299815893.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133266.999907017.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133253.999809980.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133174.199965000.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133281.499834776.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133307.999912977.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133187.699972153.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133064.699990988.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133140.899994135.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133092.199834824.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133001.299963951.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133161.199961185.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133294.499986887.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133240.999892950.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133210.899796009.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133174.699897051.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133014.799996853.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133079.199837923.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133254.499881983.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133267.499997854.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133226.499823093.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133127.899956942.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133308.499882936.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133109.999981165.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133188.199932814.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133065.199954987.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132987.799909115.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133141.399813890.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133161.699927092.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133294.999809980.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133281.999906063.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133092.699883938.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133001.799901962.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133211.399981022.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133267.999827862.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133241.499957085.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133079.699921846.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133175.199977875.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133227.000000954.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133015.299822092.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133254.999964952.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133110.499799013.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133065.699896097.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133308.999827862.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133128.399909019.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133141.899893999.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133295.499774933.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133188.699779034.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133282.499879837.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132988.299988031.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133162.199911833.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133080.199875116.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133268.499912024.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133241.999929190.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133093.199990034.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133002.299991131.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133309.499884129.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133175.699913979.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133015.799901009.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133227.499968052.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133211.899898052.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133255.499965906.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133066.199959993.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133110.999878883.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133142.399998903.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133295.999972105.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133128.899994135.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133080.699959993.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133189.199993134.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133162.699990034.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133282.999805927.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133268.999877214.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132988.799823046.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133242.499997854.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133093.699827909.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133111.499985933.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133002.799805880.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133176.199845076.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133256.000118971.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133212.399877071.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133016.299996853.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133227.999888897.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133129.399927139.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133066.699814796.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133142.899827003.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133296.499819994.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133081.199914932.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133283.499881983.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133242.999820948.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133269.499979973.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133163.199920893.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133112.000031948.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133094.199923038.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133189.699970961.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132989.299882889.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133176.699813843.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133212.899809122.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133016.799916029.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133256.499816895.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133003.299901009.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133228.499979019.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133143.399913073.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133081.699980021.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133067.199878931.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133129.899880886.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133163.699990034.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133094.699990034.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133269.999927998.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133243.499906063.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133296.999895096.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133177.199895144.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132989.799965858.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133215.999819040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133017.299994230.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133283.999825954.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133190.199930906.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133256.999982119.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133112.499969959.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133228.999780178.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133003.799982071.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133067.699970007.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133082.199931860.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133150.199893951.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133099.499990940.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133130.399962902.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133297.499962091.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133270.499997854.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133243.999966860.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133177.699989080.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133017.799793959.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133112.999881029.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133216.499886990.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132990.299905062.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133190.699983120.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133257.499819040.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133082.699982166.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133284.499888897.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133229.499975920.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133068.199925900.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133150.699840069.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133004.299925089.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133164.199966908.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133130.899931908.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133113.499842167.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133099.999818087.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132990.799975872.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133018.299984932.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133297.999924898.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133244.499805927.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133178.199833155.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133216.999979973.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133229.999909878.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133257.999813795.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133270.999827862.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133194.499834061.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133068.699986935.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133284.999989986.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133100.499879837.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133113.999907017.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133164.699910879.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133151.199900866.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133004.799897194.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133131.399783850.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133217.499833107.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132991.299807072.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133194.999922991.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133069.199812174.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133018.799832106.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133244.999984026.jpg
+Loading Loading /root/OpenSplat/data/HKisland_colmap/images/1698133298.499986887.jpg
+/root/OpenSplat/data/HKisland_colmap/images/1698133258.499929190.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133230.499997854.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133285.499955893.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133005.299961090.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133271.499915123.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133217.999899864.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698132991.799898863.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133298.999982119.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133230.999792814.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133271.999879837.jpg
+Loading /root/OpenSplat/data/HKisland_colmap/images/1698133231.499994040.jpg
+Step 1: 0.216449 (0%)
+Step 2: 0.342684 (0%)
+Step 3: 0.311215 (1%)
+Step 4: 0.328523 (1%)
+Step 5: 0.294759 (1%)
+Step 6: 0.302726 (2%)
+Step 7: 0.311862 (2%)
+Step 8: 0.247855 (2%)
+Step 9: 0.228741 (3%)
+Step 10: 0.301159 (3%)
+Step 11: 0.278794 (3%)
+Step 12: 0.308496 (4%)
+Step 13: 0.299015 (4%)
+Step 14: 0.33113 (4%)
+Step 15: 0.305232 (5%)
+Step 16: 0.255148 (5%)
+Step 17: 0.222218 (5%)
+Step 18: 0.25611 (6%)
+Step 19: 0.259743 (6%)
+Step 20: 0.306069 (6%)
+Step 21: 0.33174 (7%)
+Step 22: 0.309287 (7%)
+Step 23: 0.220316 (7%)
+Step 24: 0.220765 (8%)
+Step 25: 0.3005 (8%)
+Step 26: 0.313648 (8%)
+Step 27: 0.238545 (9%)
+Step 28: 0.30338 (9%)
+Step 29: 0.218844 (9%)
+Step 30: 0.308201 (10%)
+Step 31: 0.285296 (10%)
+Step 32: 0.285753 (10%)
+Step 33: 0.300581 (11%)
+Step 34: 0.277028 (11%)
+Step 35: 0.245968 (11%)
+Step 36: 0.31118 (12%)
+Step 37: 0.294014 (12%)
+Step 38: 0.202485 (12%)
+Step 39: 0.281872 (13%)
+Step 40: 0.237551 (13%)
+Step 41: 0.233516 (13%)
+Step 42: 0.295968 (14%)
+Step 43: 0.221892 (14%)
+Step 44: 0.285811 (14%)
+Step 45: 0.228663 (15%)
+Step 46: 0.221385 (15%)
+Step 47: 0.236205 (15%)
+Step 48: 0.235576 (16%)
+Step 49: 0.209511 (16%)
+Step 50: 0.222089 (16%)
+Step 51: 0.285777 (17%)
+Step 52: 0.254646 (17%)
+Step 53: 0.277293 (17%)
+Step 54: 0.262023 (18%)
+Step 55: 0.21022 (18%)
+Step 56: 0.235659 (18%)
+Step 57: 0.252112 (19%)
+Step 58: 0.240619 (19%)
+Step 59: 0.252358 (19%)
+Step 60: 0.224915 (20%)
+Step 61: 0.243214 (20%)
+Step 62: 0.267548 (20%)
+Step 63: 0.220527 (21%)
+Step 64: 0.193162 (21%)
+Step 65: 0.259537 (21%)
+Step 66: 0.178083 (22%)
+Step 67: 0.312777 (22%)
+Step 68: 0.195869 (22%)
+Step 69: 0.266551 (23%)
+Step 70: 0.299725 (23%)
+Step 71: 0.287029 (23%)
+Step 72: 0.236143 (24%)
+Step 73: 0.221028 (24%)
+Step 74: 0.259224 (24%)
+Step 75: 0.295464 (25%)
+Step 76: 0.23976 (25%)
+Step 77: 0.193306 (25%)
+Step 78: 0.176444 (26%)
+Step 79: 0.246651 (26%)
+Step 80: 0.290874 (26%)
+Step 81: 0.240247 (27%)
+Step 82: 0.229339 (27%)
+Step 83: 0.230579 (27%)
+Step 84: 0.196159 (28%)
+Step 85: 0.197535 (28%)
+Step 86: 0.231421 (28%)
+Step 87: 0.208065 (29%)
+Step 88: 0.254401 (29%)
+Step 89: 0.285196 (29%)
+Step 90: 0.273787 (30%)
+Step 91: 0.208169 (30%)
+Step 92: 0.255325 (30%)
+Step 93: 0.185798 (31%)
+Step 94: 0.265338 (31%)
+Step 95: 0.266439 (31%)
+Step 96: 0.189803 (32%)
+Step 97: 0.2848 (32%)
+Step 98: 0.216443 (32%)
+Step 99: 0.285617 (33%)
+Step 100: 0.254869 (33%)
+Step 101: 0.265171 (33%)
+Step 102: 0.246251 (34%)
+Step 103: 0.24038 (34%)
+Step 104: 0.19241 (34%)
+Step 105: 0.249429 (35%)
+Step 106: 0.197304 (35%)
+Step 107: 0.268161 (35%)
+Step 108: 0.27165 (36%)
+Step 109: 0.271905 (36%)
+Step 110: 0.283013 (36%)
+Step 111: 0.247014 (37%)
+Step 112: 0.257346 (37%)
+Step 113: 0.248108 (37%)
+Step 114: 0.235553 (38%)
+Step 115: 0.20843 (38%)
+Step 116: 0.231397 (38%)
+Step 117: 0.274532 (39%)
+Step 118: 0.258429 (39%)
+Step 119: 0.198714 (39%)
+Step 120: 0.270447 (40%)
+Step 121: 0.216299 (40%)
+Step 122: 0.196154 (40%)
+Step 123: 0.196652 (41%)
+Step 124: 0.23645 (41%)
+Step 125: 0.251236 (41%)
+Step 126: 0.281099 (42%)
+Step 127: 0.23124 (42%)
+Step 128: 0.249877 (42%)
+Step 129: 0.243696 (43%)
+Step 130: 0.266877 (43%)
+Step 131: 0.191239 (43%)
+Step 132: 0.274365 (44%)
+Step 133: 0.24784 (44%)
+Step 134: 0.236145 (44%)
+Step 135: 0.265835 (45%)
+Step 136: 0.177643 (45%)
+Step 137: 0.172728 (45%)
+Step 138: 0.237208 (46%)
+Step 139: 0.271122 (46%)
+Step 140: 0.246314 (46%)
+Step 141: 0.24782 (47%)
+Step 142: 0.256652 (47%)
+Step 143: 0.179899 (47%)
+Step 144: 0.235959 (48%)
+Step 145: 0.271192 (48%)
+Step 146: 0.230281 (48%)
+Step 147: 0.185402 (49%)
+Step 148: 0.243782 (49%)
+Step 149: 0.171761 (49%)
+Step 150: 0.263282 (50%)
+Step 151: 0.221184 (50%)
+Step 152: 0.251549 (50%)
+Step 153: 0.220643 (51%)
+Step 154: 0.221889 (51%)
+Step 155: 0.214672 (51%)
+Step 156: 0.269783 (52%)
+Step 157: 0.198217 (52%)
+Step 158: 0.19735 (52%)
+Step 159: 0.20357 (52%)
+Step 160: 0.209584 (53%)
+Step 161: 0.226576 (53%)
+Step 162: 0.180756 (54%)
+Step 163: 0.165021 (54%)
+Step 164: 0.239955 (54%)
+Step 165: 0.263661 (55%)
+Step 166: 0.241633 (55%)
+Step 167: 0.245689 (55%)
+Step 168: 0.257702 (56%)
+Step 169: 0.205969 (56%)
+Step 170: 0.259455 (56%)
+Step 171: 0.251483 (57%)
+Step 172: 0.257709 (57%)
+Step 173: 0.267785 (57%)
+Step 174: 0.264598 (58%)
+Step 175: 0.280857 (58%)
+Step 176: 0.27159 (58%)
+Step 177: 0.235215 (58%)
+Step 178: 0.201548 (59%)
+Step 179: 0.244161 (59%)
+Step 180: 0.198124 (60%)
+Step 181: 0.186194 (60%)
+Step 182: 0.202554 (60%)
+Step 183: 0.174517 (61%)
+Step 184: 0.259321 (61%)
+Step 185: 0.298635 (61%)
+Step 186: 0.263601 (62%)
+Step 187: 0.272588 (62%)
+Step 188: 0.165106 (62%)
+Step 189: 0.164148 (63%)
+Step 190: 0.156633 (63%)
+Step 191: 0.155434 (63%)
+Step 192: 0.234821 (64%)
+Step 193: 0.22984 (64%)
+Step 194: 0.230903 (64%)
+Step 195: 0.22892 (65%)
+Step 196: 0.243397 (65%)
+Step 197: 0.156611 (65%)
+Step 198: 0.196266 (66%)
+Step 199: 0.189259 (66%)
+Step 200: 0.155796 (66%)
+Step 201: 0.202801 (67%)
+Step 202: 0.257476 (67%)
+Step 203: 0.160704 (67%)
+Step 204: 0.212193 (68%)
+Step 205: 0.27237 (68%)
+Step 206: 0.244869 (68%)
+Step 207: 0.21742 (69%)
+Step 208: 0.265009 (69%)
+Step 209: 0.237027 (69%)
+Step 210: 0.232729 (70%)
+Step 211: 0.213273 (70%)
+Step 212: 0.199843 (70%)
+Step 213: 0.211951 (71%)
+Step 214: 0.235265 (71%)
+Step 215: 0.240592 (71%)
+Step 216: 0.246322 (72%)
+Step 217: 0.156361 (72%)
+Step 218: 0.212365 (72%)
+Step 219: 0.261794 (73%)
+Step 220: 0.213011 (73%)
+Step 221: 0.232722 (73%)
+Step 222: 0.186931 (74%)
+Step 223: 0.263482 (74%)
+Step 224: 0.285594 (74%)
+Step 225: 0.275491 (75%)
+Step 226: 0.260693 (75%)
+Step 227: 0.266819 (75%)
+Step 228: 0.227419 (76%)
+Step 229: 0.203893 (76%)
+Step 230: 0.232196 (76%)
+Step 231: 0.244358 (77%)
+Step 232: 0.236608 (77%)
+Step 233: 0.200503 (77%)
+Step 234: 0.237122 (78%)
+Step 235: 0.201996 (78%)
+Step 236: 0.222191 (78%)
+Step 237: 0.201048 (79%)
+Step 238: 0.244639 (79%)
+Step 239: 0.25454 (79%)
+Step 240: 0.255056 (80%)
+Step 241: 0.21598 (80%)
+Step 242: 0.243791 (80%)
+Step 243: 0.213739 (81%)
+Step 244: 0.170481 (81%)
+Step 245: 0.23743 (81%)
+Step 246: 0.183825 (82%)
+Step 247: 0.243909 (82%)
+Step 248: 0.234239 (82%)
+Step 249: 0.204891 (83%)
+Step 250: 0.166328 (83%)
+Step 251: 0.225802 (83%)
+Step 252: 0.196546 (84%)
+Step 253: 0.179981 (84%)
+Step 254: 0.23764 (84%)
+Step 255: 0.187604 (85%)
+Step 256: 0.177834 (85%)
+Step 257: 0.197379 (85%)
+Step 258: 0.201988 (86%)
+Step 259: 0.235873 (86%)
+Step 260: 0.255599 (86%)
+Step 261: 0.271733 (87%)
+Step 262: 0.25452 (87%)
+Step 263: 0.248441 (87%)
+Step 264: 0.158238 (88%)
+Step 265: 0.242017 (88%)
+Step 266: 0.214745 (88%)
+Step 267: 0.197447 (89%)
+Step 268: 0.23357 (89%)
+Step 269: 0.206346 (89%)
+Step 270: 0.235327 (90%)
+Step 271: 0.220831 (90%)
+Step 272: 0.156947 (90%)
+Step 273: 0.263596 (91%)
+Step 274: 0.240703 (91%)
+Step 275: 0.224544 (91%)
+Step 276: 0.234105 (92%)
+Step 277: 0.173601 (92%)
+Step 278: 0.230497 (92%)
+Step 279: 0.179508 (93%)
+Step 280: 0.232421 (93%)
+Step 281: 0.175247 (93%)
+Step 282: 0.215961 (94%)
+Step 283: 0.226203 (94%)
+Step 284: 0.152509 (94%)
+Step 285: 0.162597 (95%)
+Step 286: 0.227983 (95%)
+Step 287: 0.208087 (95%)
+Step 288: 0.217801 (96%)
+Step 289: 0.199227 (96%)
+Step 290: 0.182561 (96%)
+Step 291: 0.217531 (97%)
+Step 292: 0.177057 (97%)
+Step 293: 0.239721 (97%)
+Step 294: 0.251892 (98%)
+Step 295: 0.265083 (98%)
+Step 296: 0.236924 (98%)
+Step 297: 0.151066 (99%)
+Step 298: 0.151732 (99%)
+Step 299: 0.226178 (99%)
+Step 300: 0.207907 (100%)
+Wrote cameras.json
+Wrote hkisland_output.ply

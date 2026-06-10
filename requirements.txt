@@ -1,0 +1,14 @@
+torch>=2.1
+torchvision
+numpy
+opencv-python
+Pillow
+tqdm
+plyfile
+matplotlib
+huggingface_hub
+pycolmap>=4.0
+gsplat>=1.4
+# CUDA toolkit for building gsplat extensions (no system CUDA installed)
+nvidia-cuda-nvcc-cu12==12.8.93
+cmake

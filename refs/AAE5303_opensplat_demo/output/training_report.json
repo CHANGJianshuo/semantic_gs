@@ -1,0 +1,18 @@
+{
+  "training_summary": {
+    "total_steps": 300,
+    "total_images": 534,
+    "num_gaussians": 1441245,
+    "initial_loss": 0.216449,
+    "final_loss": 0.207907,
+    "min_loss": 0.151066,
+    "max_loss": 0.342684,
+    "mean_loss": 0.23565823333333333,
+    "std_loss": 0.039315401896443704,
+    "loss_reduction_pct": 3.9464261789151225
+  },
+  "estimated_metrics": {
+    "psnr_estimate": 22.5,
+    "ssim_estimate": 0.82
+  }
+}

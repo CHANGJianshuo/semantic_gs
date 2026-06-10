@@ -1,0 +1,103 @@
+{
+    "dataset": {
+        "name": "AMtown02",
+        "source": "UAVScenes / MARS-LVIG",
+        "sequence_type": "Urban aerial survey",
+        "num_images": 1380,
+        "image_resolution": "2448x2048",
+        "num_lidar_files": 1380,
+        "total_lidar_points": 34375298
+    },
+    "preprocessing": {
+        "lidar_merge": {
+            "input_format": "txt",
+            "output_format": "ply",
+            "sampling_rate": 10,
+            "points_after_sampling": 3438152,
+            "output_file_size_mb": 49.18
+        },
+        "colmap_conversion": {
+            "initial_points": 3438152,
+            "point_sampling_rate": 10,
+            "final_points": 343815,
+            "num_cameras": 1,
+            "camera_model": "OPENCV",
+            "camera_parameters": {
+                "fx": 1469.49,
+                "fy": 1469.49,
+                "cx": 1174.00,
+                "cy": 1049.91,
+                "k1": 0.0,
+                "k2": 0.0
+            }
+        }
+    },
+    "training": {
+        "framework": "OpenSplat",
+        "device": "CPU",
+        "num_iterations": 300,
+        "downscale_factor": 4,
+        "training_resolution": "612x512",
+        "output_file": "amtown02_output_300.ply",
+        "training_time_minutes": 25
+    },
+    "hyperparameters": {
+        "sh_degree": 3,
+        "ssim_weight": 0.2,
+        "refine_every": 100,
+        "warmup_length": 500,
+        "reset_alpha_every": 30,
+        "densify_grad_thresh": 0.0002,
+        "densify_size_thresh": 0.01,
+        "stop_screen_size_at": 4000,
+        "split_screen_size": 0.05,
+        "num_downscales": 2,
+        "resolution_schedule": 3000
+    },
+    "results": {
+        "loss_statistics": {
+            "initial_loss": 0.2164,
+            "final_loss": 0.0888,
+            "minimum_loss": 0.0454,
+            "maximum_loss": 0.2147,
+            "mean_loss": 0.1334,
+            "std_deviation": 0.0346,
+            "loss_reduction_percent": 58.9
+        },
+        "output_model": {
+            "file_size_gb": 2.0,
+            "num_gaussians": 8335917,
+            "format": "PLY (binary_little_endian)",
+            "spherical_harmonics_degree": 3,
+            "total_sh_coefficients": 48
+        },
+        "estimated_quality": {
+            "note": "These are rough estimates based on training loss. Actual evaluation required.",
+            "estimated_psnr_range": "20-22 dB",
+            "estimated_ssim_range": "0.75-0.80"
+        }
+    },
+    "system_info": {
+        "os": "Linux (WSL2)",
+        "kernel": "6.6.87.2-microsoft-standard-WSL2",
+        "ram_total_gb": 31,
+        "ram_used_peak_gb": 10,
+        "cpu_cores": 20,
+        "gpu": "None (CPU-only execution)"
+    },
+    "notes": [
+        "Memory optimization required: 4× downscaling to fit in available RAM",
+        "Training limited to 300 iterations due to CPU-only execution",
+        "Warmup length (500) exceeds training iterations, so no densification occurred",
+        "For better results, train for 3,000-30,000 iterations with GPU acceleration",
+        "Point cloud from LiDAR merge has lower quality than structure-from-motion reconstruction"
+    ],
+    "improvements_for_students": [
+        "Increase training iterations to 3,000+",
+        "Use GPU acceleration if available",
+        "Reduce downscale factor if memory permits (4 → 2)",
+        "Tune densification thresholds for finer details",
+        "Use higher quality initial point cloud (reduce sampling rate)"
+    ]
+}
+

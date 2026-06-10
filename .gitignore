@@ -1,0 +1,49 @@
+# --- Data (regenerable) ------------------------------------------------------
+# Source images and downloaded masks are derived from external datasets;
+# keep the repo lightweight by not vendoring them.
+data/images/
+data/labels/
+data/labels_color/
+data/labels_raw/
+data/colmap/database.db
+data/colmap/sparse/0/database*
+data/colmap/sparse/0/images.bin
+data/colmap/sparse/0/points3D.bin
+data/colmap/sparse/0/frames.bin
+data/colmap/sparse/0/rigs.bin
+
+# --- Trained models / large outputs (regenerable) ----------------------------
+output/gs/*.ply
+output/semantic/*.ply
+output/semantic/*.npy
+output/unet/*.pt
+output/unet/predictions/probs/
+output/unet/predictions/labels/
+output/unet/predictions/viz/
+
+# --- Training logs (huge tqdm dumps) ----------------------------------------
+output/*_run.log
+output/*_train.log
+
+# --- Local CUDA / Python tooling -------------------------------------------
+# (these live outside the repo anyway, but just in case)
+/cuda_install/
+/cuda/
+/pydev_root/
+
+# --- Reference repos: keep tree, drop their .git pointers ------------------
+refs/*/.git/
+
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# --- Editor / OS ------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
