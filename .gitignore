@@ -16,6 +16,8 @@ data/colmap/sparse/0/rigs.bin
 output/gs/*.ply
 output/semantic/*.ply
 output/semantic/*.npy
+# keep overview.jpg in the README -- it's only ~700 KB
+!output/semantic/overview.jpg
 output/unet/*.pt
 output/unet/predictions/probs/
 output/unet/predictions/labels/

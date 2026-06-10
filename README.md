@@ -9,6 +9,17 @@ sequence.
 > raw frames  →  COLMAP SfM (poses)  →  3D Gaussian Splatting (geometry)
 >             ↘  U-Net (per-pixel labels) ─→  back-project & vote  →  semantic Gaussians
 
+### Semantic map of the whole AMtown02 reconstruction
+
+![semantic overview](output/semantic/overview.jpg)
+
+*Top-down render of the 2.05 M semantically-coloured Gaussians, virtual camera
+placed above the centroid of the COLMAP trajectory. Yellow = road network,
+red = roofs, green = green_field, tan = wild_field, magenta dots = vehicles.
+Black border = outside the reconstructed area.*
+
+### Same-pose RGB ↔ semantic comparison
+
 ![hero](output/semantic/renders/1658133589.072932515_semantic.jpg)
 
 *Left: original aerial RGB frame. Right: re-rendering of the semantically-coloured
